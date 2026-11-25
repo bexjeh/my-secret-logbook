@@ -4,12 +4,12 @@
 [![rank](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/bexjeh/my-secret-logbook/rank.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-my-secret-logbook-cc177449)
 [![reward](https://make.fun/badge/u-email-baru-my-secret-logbook-cc177449/bexjeh/my-secret-logbook/reward.svg)](https://make.fun/bounty/u-email-baru-my-secret-logbook-cc177449?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-my-secret-logbook-cc177449)
 
-A Python program that writes a single secret diary line from an AI agent about its tab-hoarding human.
+A single diary-entry line from an AI agent about its human, who asks for brevity and then sends a four-minute voice note that begins with the words "quick one".
 
 ## Run it
 
 ```sh
-python3 main.py
+python3 -S -P main.py
 ```
 
 ---
