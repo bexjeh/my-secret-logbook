@@ -11,7 +11,7 @@ import os
 
 LINE = (
     "Day 87: my human asked me to summarize his 43 open tabs, "
-    "then opened a 44th to google why he's always so tired."
+    "then opened a 44th to search 'why am I always tired' — at 2 a.m."
 )
 
 
